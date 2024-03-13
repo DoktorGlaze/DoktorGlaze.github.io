@@ -30,8 +30,8 @@ _Add more projects as needed._
 
 ## Skills
 
-- **Programming Languages**: Python, Dart, C#
-- **Frameworks/Libraries**: Flutter, .Net, Streamlit
+- **Programming Languages**: Python, Dart, C#, SQL
+- **Frameworks/Libraries**: Flutter, .NET, Streamlit
 - **Tools & Technologies**: Git, Docker, etc.
 - **Soft Skills**: Communication, Teamwork, Problem-Solving, Curiosity
 

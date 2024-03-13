@@ -57,8 +57,8 @@ _Add more experiences as needed._
 
 ## Education
 
-- **[Your Degree]**, [Your Major/Field of Study] - [Your University](link-to-university)
-  _Month Year - Month Year_
+- **Bachelor in Information Systems** - [University of Gothenburg](https://www.gu.se/)
+  _Aug 2021 - Jun 2024_
 
 ---
 
@@ -74,6 +74,6 @@ _Add more certifications as needed._
 
 Feel free to reach out to me for collaborations or questions:
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [LinkedIn Profile](your-linkedin-url)
-- **GitHub**: [@your-github-username](your-github-profile-link)
+- **Email**: baridikari@duck.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kevin-kasekenya/)
+- **GitHub**: [@your-github-username](https://github.com/DoktorGlaze)

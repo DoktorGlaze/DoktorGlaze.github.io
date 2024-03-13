@@ -4,7 +4,7 @@
 
 Hello! I'm Kevin, currently pursuing a bachelor's degree in Information Systems at The University of Gothenburg. I specialize in software development and data analytics, focusing on leveraging these disciplines to build robust and scalable data-driven applications.
 
-## I am deeply passionate about utilizing technology to create impactful solutions that address real-world challenges. My driving force is the belief that well-designed, data-driven applications have the power to make the world a better place by providing insights, enhancing efficiency, and fostering positive change across various sectors.
+I am deeply passionate about utilizing technology to create impactful solutions that address real-world challenges. My driving force is the belief that well-designed, data-driven applications have the power to make the world a better place by providing insights, enhancing efficiency, and fostering positive change across various sectors.
 
 ## Projects
 
